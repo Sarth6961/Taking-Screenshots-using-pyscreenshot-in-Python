@@ -3,7 +3,7 @@ Here we will learn how to take a screenshot using Python. Python provides a modu
 
 ## Installation
 Install the package pyscreenshot using the below command in your command prompt.
+pip install pyscreenshot
 
-## pip install pyscreenshot
-Capturing Full Screen
+## Capturing Full Screen
 Here we will learn the simplest way of taking a screenshot using pyscreenshot module. Here we will use the function show() to view the screenshot. 
